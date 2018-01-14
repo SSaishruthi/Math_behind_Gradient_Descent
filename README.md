@@ -11,14 +11,16 @@ Task is to find a function that can effectively map the input to output. Since, 
 Equation of straight line,
               Y = mx + b
 Here,
-‘m’ is the slope
-‘b’ is the intercept
+- ‘m’ is the slope
+- ‘b’ is the intercept
 
 Optimum value for ‘b’ and ‘m’ must be found so that the obtained line can best fit as many as data points possible and also output obtained from these values will be nearly equal to the actual value.
 
 Error Function
 SSE (Sum of Squared Error) = ∑(Actual value-Predicted Value)^2
+
 SSE (Sum of Squared Error) = 1/N ∑_(i=1)^n▒〖(Actual Output-((Slope*x)+intercept))^2  〗
+                             
                              1/N ∑_(i=1)^n▒〖(y-((m*x)+b))^2  〗
 
 Summing up all the errors can give final error value for the function. Initially ‘b’ and ‘m’ are assigned 0.
