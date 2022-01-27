@@ -43,3 +43,5 @@ After 950 iterations,
 ‘b’ value is 1.52484 
 ‘m’ value is 0.0606 
 Error value is 112.76
+
+Inspired from YouTube’s videos and [tutorials](https://github.com/mattnedrich/GradientDescentExample).
