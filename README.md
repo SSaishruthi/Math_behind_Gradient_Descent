@@ -44,4 +44,6 @@ After 950 iterations,
 ‘m’ value is 0.0606 
 Error value is 112.76
 
+Credit
+
 Inspired from YouTube’s videos and [tutorials](https://github.com/mattnedrich/GradientDescentExample).
